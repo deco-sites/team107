@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/team107/": "./",
+
     "deco-sites/fashion/": "./",
     "$store/": "./",
     "deco-sites/std/": "https://denopkg.com/deco-sites/std@f018c671/",
